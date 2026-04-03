@@ -33,5 +33,3 @@ This project demonstrates the implementation of **SOLID principles** in Object-O
 - High-level modules depend on abstractions, not concrete classes
 - `OrderProcessor` depends on `IOrderCalculable` and `IOrderPlacable` interfaces
 - Easy to swap implementations without changing client code
-
-## 📁 Project Structure
